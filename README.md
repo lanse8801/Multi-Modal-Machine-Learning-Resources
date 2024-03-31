@@ -1,4 +1,4 @@
-# Multi-Modal-Machine-Learning-Survey
+# Multi-Modal-Machine-Learning-Resources
 
 ## Journal
 
